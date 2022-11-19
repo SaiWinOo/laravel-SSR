@@ -1,0 +1,12 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "animate.css/animate.min.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input:focus-visible{
+    outline: none;
+}
+textarea:focus-visible{
+    outline: none;
+}
